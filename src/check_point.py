@@ -13,8 +13,8 @@ JPEG_DATA_TENSOR_NAME = 'DecodeJpeg/contents:0'
 MODEL_DIR = '../datasets/inception_dec_2015'
 MODEL_FILE= 'tensorflow_inception_graph.pb'
 
-CACHE_DIR = '../datasets/bottleneck'
-INPUT_DATA = '../datasets/flower_photos'
+CACHE_DIR = '../datasets/bottleneck2'
+INPUT_DATA = '../datasets/keep_image'
 
 VALIDATION_PERCENTAGE = 10
 TEST_PERCENTAGE = 10
