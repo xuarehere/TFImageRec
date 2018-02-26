@@ -1,5 +1,3 @@
-# TFImageRec
-TensorFlow CNN classify image
 ﻿# 基于TensorFlow实现的CNN图片分类相关练习
 
 标签（空格分隔）： 机器学习 TensorFlow CNN 深度学习
